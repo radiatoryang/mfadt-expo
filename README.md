@@ -7,11 +7,6 @@
 ## MFADT / aesthetics of interaction
 - MFADT is not a games program, but we teach games classes... why do you think that is?
 - interaction as aesthetic... "roleplaying" / expression
-- successful public games are usually:
-   - easy to learn / try
-   - short round times
-   - fun to watch
-   - expressive, allow users to "perform" / roleplay
 - I'm focusing on games / playful / VR stuff, but the general concepts can be useful for a lot of you
 
 ***
@@ -30,6 +25,7 @@
 #### How will you run your demos?
 
 for all digital interactives, I recommend:
+- disable screensavers!
 - auto-startup macros for Windows / OSX, automatically boot-up your app when the OS starts
 - code an Attract Mode ("press Start to begin") to signal "beginning" of an experience
 - code an idle timer, e.g. automatically reboots back to Attract Mode after 1 minute idle
@@ -60,7 +56,7 @@ postcard flyers advertise your project
 don't use QR codes in the US
 - people won't take you seriously
 
-## 3. SOURCING EQUIPMENT
+## 3. EQUIPMENT
 
 less equipment is almost always better
 
@@ -72,3 +68,23 @@ if possible, fabricate duplicates for any fragile hardware
 - 50% chance your hand-soldered arduino thing is going to be destroyed
 - using any pressure or flex sensors or servos? 90% chance of destruction
 - in general, anything a guest will touch (controllers, mice, buttons, joysticks) has a good chance of being destroyed
+
+if using any infrared (Vive VR, Oculus Rift CV1 VR, Kinect, LeapMotion, your own IR solution) then be careful where you're pointing your IR LEDs / lasers... this is a big problem in VR, when 2 sets of IR laser sensors end up fighting each other
+
+## TAKEAWAYS
+
+- successful public exhibitions are usually:
+   - easy to learn / try at first (if making a "deep" game, you should have a casual "buttonmasher" layer)
+   - short round times (5 minutes or less)
+   - fun to watch (learn about it by watching others interact)
+   - expressive, allow users to "perform" / roleplay, good selfie opportunities
+   
+- make a special show version of your app / demo
+
+- think about which audiences you want to reach
+   - avoid "Art English" unless that's who you're going for
+
+- make it easy for the press to write about you
+   - YouTube embed, video is key
+   - website with presskit / mediakit with images and text blurbs
+   - have a clear story: "I'm gay, and I noticed straight people kept thinking I was straight... so I made an app that tweets I'M GAY to all straight people within a 500m radius and I call it RAIN-BLOW"
