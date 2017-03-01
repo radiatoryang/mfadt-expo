@@ -18,7 +18,8 @@
 - identify 2-3 different audience "personas", what do they want from you?
 - example: Journalist wants images + YouTube embed + "a story"
 - example: Employers want portfolio + demonstration of your competence + contact info
-- ... hopefully your project has specific domains and you know what those domains want
+- (hopefully your project has specific domains and you know what those domains want)
+- now figure out: how will you let these audiences get what they need from your project?
 
 ## 2. PLANNING CHECKLIST
 
@@ -91,4 +92,8 @@ if using any infrared (Vive VR, Oculus Rift CV1 VR, Kinect, LeapMotion, your own
 - make it easy for the press to write about you
    - YouTube embed, video is key
    - website with presskit / mediakit with images and text blurbs
-   - have a clear story: "I'm gay, and I noticed straight people kept thinking I was straight... so I made an app that tweets I'M GAY to all straight people within a 500m radius and I call it RAIN-BLOW"
+
+# MOST IMPORTANTLY: tell a "story" with your presentation
+- example: "I'm gay, and I noticed straight people kept thinking I was straight... so I made an app that tweets I'M GAY to all straight people within a 500m radius and I call it RAIN-BLOW... and now the NYPD wants me to shut it down!!"
+- it has a beginning, a middle, and an end... it suggests one possible response to your work
+- you tell a bit about you, and also connect the artwork to your identity / general practice as an artist
