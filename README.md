@@ -23,7 +23,7 @@
 
 ## 2. PLANNING CHECKLIST
 
-#### How will you run your demos?
+### How will you run your demos?
 
 for all digital interactives, I recommend:
 - disable screensavers!
@@ -40,7 +40,7 @@ VR is new and difficult, you should always have someone there
 - have ginger chews / ginger candy for worse-case users
 - if room scale, a person should hold the tether for them
 
-#### How will press / media know how to contact you?
+### How will employers / press / media know how to contact you?
 
 business cards advertise you, the artist
 - doesn't need to be expensive, but don't be too cheap
@@ -55,7 +55,8 @@ postcard flyers advertise your project
 - if games, look up presskit() http://dopresskit.com/
 
 don't use QR codes in the US
-- people won't take you seriously
+
+follow up with people 1-2 days later, send an e-mail, "Hi, we met at [PLACE], I'm just following up to..." ... 99% of these e-mails will go nowhere, but you have to do it for the 1% of e-mails that do
 
 ## 3. EQUIPMENT
 
