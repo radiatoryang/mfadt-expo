@@ -82,7 +82,7 @@ if using any infrared (Vive VR, Oculus Rift CV1 VR, Kinect, LeapMotion, your own
    - expressive, allow users to "perform" / roleplay, good selfie opportunities
    
 - make a special show version of your app / demo
-   - if you are making some kind of board game / tabletop game, you may want to create an easy abbreviated ruleset... OR don't even let people play it, just showcase the game pieces in a glass box, and post the rules, and let people imagine what it would be like
+   - if you are making some kind of board game / tabletop game, you may want to create an easy abbreviated ruleset... OR don't even let people play it, just showcase the game pieces in a glass box, and post the rules, and let people imagine what it would be like? treat it like a conceptual sculpture
 
 - think about which audiences you want to reach
    - avoid "Art English" unless that's who you're going for
