@@ -58,11 +58,13 @@ don't use QR codes in the US
 
 ## 3. EQUIPMENT
 
+if making an installation, you cannot build a "ceiling" (e.g. drape cloth or a wood board over some walls), that violates the fire code and the fire marshall will shut you down
+
 less equipment is almost always better
 
 if school can't meet your equipment needs, then do what countless MFAs have done before you: run to Best Buy, buy something, take really good care of it, then return it after the show
 
-make sure you get locks and enclosures for any phones / tablets
+make sure you get locks and enclosures for any phones / tablets / expensive electronics... things do get stolen at shows
 
 if possible, fabricate duplicates for any fragile hardware
 - 50% chance your hand-soldered arduino thing is going to be destroyed
@@ -80,9 +82,11 @@ if using any infrared (Vive VR, Oculus Rift CV1 VR, Kinect, LeapMotion, your own
    - expressive, allow users to "perform" / roleplay, good selfie opportunities
    
 - make a special show version of your app / demo
+   - if you are making some kind of board game / tabletop game, you may want to create an easy abbreviated ruleset... OR don't even let people play it, just showcase the game pieces in a glass box, and post the rules, and let people imagine what it would be like
 
 - think about which audiences you want to reach
    - avoid "Art English" unless that's who you're going for
+   - write accessibly, using everyday language
 
 - make it easy for the press to write about you
    - YouTube embed, video is key
