@@ -26,10 +26,10 @@
 
 for all digital interactives, I recommend:
 - disable screensavers!
-- auto-startup macros for Windows / OSX, automatically boot-up your app when the OS starts
+- auto-startup macros for Windows / OSX, automatically boot-up your app when the OS starts... make it easy for other people to help bootup your interactive thing when they just turn on your computer (otherwise you have to go there every morning to make sure it works)
 - code an Attract Mode ("press Start to begin") to signal "beginning" of an experience
-- code an idle timer, e.g. automatically reboots back to Attract Mode after 1 minute idle
-- code a manual override "restart" button, in case of bugs and freezes
+- code an idle timer, e.g. automatically reboots back to Attract Mode after 1 minute of no user activity
+- code a manual override "restart" button, in case of catastrophic bugs and freezes
 - hide the keyboard during the show
 - no live internet... if you rely on data, cache your data or feature an "example" dataset
 
